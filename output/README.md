@@ -3,3 +3,5 @@
 
 The output directory contains analysis output, processed datasets, logs, or other processed things.
 
+### processed_moments.csv
+It is the cleaning data from the text mining process.
